@@ -4470,6 +4470,17 @@ body {
 .cid-rkr2EM1vxg P {
   color: #333333;
 }
+.cid-ruiKpX8Uoi {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ruiKpX8Uoi .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ruiKpX8Uoi H2 {
+  color: #232323;
+}
 .cid-ru8Et6tH4P {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -4788,6 +4799,7 @@ body {
 }
 .cid-rlmHrpV0hC .mbr-text {
   color: #767676;
+  text-align: right;
 }
 .cid-rlmHrpV0hC .card-wrapper {
   height: 100%;
@@ -4807,7 +4819,7 @@ body {
   }
 }
 .cid-rlmHrpV0hC .card-title {
-  text-align: center;
+  text-align: right;
 }
 .cid-rkvtT29wQs {
   padding-top: 60px;
