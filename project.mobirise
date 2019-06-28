@@ -95,7 +95,9 @@
     "versionPublish": "4.10.4",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/RoelvanSabben1/Documents/GitHub/www_veda-egypt_com"
   },
   "pages": {
     "gallery.html": {
