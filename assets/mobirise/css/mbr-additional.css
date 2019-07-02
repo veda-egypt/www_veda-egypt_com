@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
+@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
 
 
 
@@ -21,14 +22,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Cabin Sketch', display;
-  font-size: 3.5rem;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 3.25rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.6rem;
+  font-size: 5.2rem;
 }
 .display-2 {
-  font-family: 'Cabin Sketch', display;
+  font-family: 'Julius Sans One', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -62,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.8rem;
-    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.6rem;
+    font-size: calc( 1.7874999999999999rem + (3.25 - 1.7874999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7874999999999999rem + (3.25 - 1.7874999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -3001,7 +3002,7 @@ body {
 .cid-rkvEGxz82E {
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #cad9a2, #cad9a2);
+  background: linear-gradient(0deg, #ffffff, #cad9a2);
 }
 .cid-rkvEGxz82E .mbr-iconfont-social {
   font-size: 32px;
@@ -5517,9 +5518,6 @@ body {
 }
 .cid-ruv2q3w9Li H4 {
   color: #7aa759;
-}
-.cid-ruv2q3w9Li P {
-  color: #767676;
 }
 .cid-ruv2iYPD4h .modal-body .close {
   background: #1b1b1b;
